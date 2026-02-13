@@ -47,7 +47,6 @@ This project enhanced my understanding of:
 
 ---
 
-## Project Links
-- GitHub Repository: (Add your repository link here)  
-- Demo Video: (Add video link if applicable)  
-- LinkedIn Post: (Add LinkedIn post link here)
+## Project Links 
+- Demo Video: (https://www.linkedin.com/posts/abhigunjal_internship-portfoliowebsite-webdevelopment-activity-7428044288522997760-yoNu?utm_source=share&utm_medium=member_desktop&rcm=ACoAAGG581ABFsRfTxFNTX338OgOupBw5BjH81c)  
+- LinkedIn Post: (https://www.linkedin.com/posts/abhigunjal_internship-portfoliowebsite-webdevelopment-activity-7428044288522997760-yoNu?utm_source=share&utm_medium=member_desktop&rcm=ACoAAGG581ABFsRfTxFNTX338OgOupBw5BjH81c)
